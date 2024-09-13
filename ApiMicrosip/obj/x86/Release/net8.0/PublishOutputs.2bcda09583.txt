@@ -1,0 +1,11 @@
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\ApiMicrosip.exe
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\ApiMicrosip.dll
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\ApiMicrosip.deps.json
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\ApiMicrosip.runtimeconfig.json
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\ApiMicrosip.pdb
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luilm\source\repos\APIMICROSIP\ApiMicrosip\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

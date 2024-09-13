@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L4kVT62BtT+pEImKY4SgIfnksZ6kTgomlcQfMCe1WfM=",
+  "Source": "ApiMicrosip",
+  "BasePath": "_content/ApiMicrosip",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

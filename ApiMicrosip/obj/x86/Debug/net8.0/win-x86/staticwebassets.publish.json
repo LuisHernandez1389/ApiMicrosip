@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8gWlcFTLRIRwGvusO+UCkhI7I3lvFYsb75hJJ/EGlZs=",
+  "Source": "ApiMicrosip",
+  "BasePath": "_content/ApiMicrosip",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

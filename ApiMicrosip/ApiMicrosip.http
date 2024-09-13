@@ -1,0 +1,6 @@
+@ApiMicrosip_HostAddress = http://localhost:5224
+
+GET {{ApiMicrosip_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
